@@ -10,3 +10,5 @@ tools.setObjData(aa, 'bb', 123)
 aa = {bb:123}
 2、取值
 tools.getObjData(aa, 'bb')
+
+#建议，方法简单，点赞也简单，好用记得点赞。
